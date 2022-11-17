@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Diego-Rodrigo/digital-clock/blob/main/src/Relogio%20Digital%20-%20Pessoal%20%E2%80%94%20Microsoft%E2%80%8B%20Edge%2017_11_2022%2008_29_43.png)
 
 ## Stack utilizada
 
